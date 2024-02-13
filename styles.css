@@ -1,0 +1,16 @@
+<style>
+    /* CSS styles for the button */
+    body > :not(#overlay) {
+        display: none;
+    }
+    
+    /* Style for the button */
+    #toggleMusicButton {
+        background: transparent; /* Transparent background */
+        border: none; /* Remove border */
+        color: white; /* White text color */
+        padding: 10px 20px; /* Adjust padding as needed */
+        font-size: 16px; /* Font size */
+        cursor: pointer; /* Cursor on hover */
+    }
+</style>
